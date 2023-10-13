@@ -6,6 +6,10 @@
 	],
 	"settings": {
 		"javascript.validate.enable": false,
-		"javascript.suggestionActions.enabled": false
+		"javascript.suggestionActions.enabled": false,
+		"cSpell.words": [
+			"Avenir",
+			"execa"
+		]
     }
 }
